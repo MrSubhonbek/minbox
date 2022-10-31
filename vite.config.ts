@@ -10,6 +10,6 @@ export default defineConfig({
       $: path.resolve(__dirname, "./src"),
     },
   },
-  base: "/todo-app/",
+  base: "/minbox/",
   publicDir: "public",
 });
